@@ -14,7 +14,7 @@ My research focuses on **AI-driven automation for timber wall-frame construction
 Before my PhD, I served as Deputy Design and Planning Manager at SOMA Construction in Cambodia and as a Lecturer and Program Coordinator at Paragon International University, where I taught Reinforced Concrete Design, Steel Structure Design, and BIM fundamentals.
 
 ## News
-- **[2026]** Paper provisionally accepted at ISARC 2026 on precast bridge installation simulation.
+- **[2026]** Paper accepted at ISARC 2026 on precast bridge installation simulation.
 - **[2026]** Presented at Purdue Road School Transportation Conference & Expo.
 - **[2026]** Poster presentation at Purdue Robotics Day.
 - **[2026]** Presented at TRB 105th Annual Meeting, Washington DC.
