@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi there! I'm Meta Soy, a PhD researcher in Construction Management Technology at **Purdue University**, West Lafayette, IN. I am advised by [Prof. Jiansong Zhang](https://www.purdue.edu/) at the School of Construction Management Technology.
+Hi there! I'm Meta Soy, a Ph.D. Student in Construction Management Technology at [**Purdue University**](https://www.purdue.edu/), West Lafayette, IN. I am advised by [Prof. Jiansong Zhang](https://polytechnic.purdue.edu/profile/zhan3062) at the Bowen School of Construction.
 
 My research focuses on **AI-driven automation for timber wall-frame construction** using robotic arms guided by architectural 3D models. More broadly, I am interested in applying computer vision, robotics, and BIM technologies to modernize the construction industry toward **Construction 4.0**.
 
